@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+.app {
+	margin: 0 auto;
+	width: 500px;
+	border: 1px solid red;
+	box-sizing: border-box;
+	font-family: 'Comfortaa';
+	font-size: 10px;
+}
+
+.contactForm {
+	width: 500px;
+}
+
+input {
+	width: 120px;
+	height: 30px;
+	font-family: 'Comfortaa';
+}
+
+button {
+	padding: 0;
+	width: 125px;
+	height: 35px;
+	color: red;
+	font-family: 'Comfortaa';
+}
+
+.contactsList {
+	padding: 0 10px;
+}
+
+.contactItem {
+	width: 500px;
+	height: 200px;
+}
+
+.contactImage {
+	width: 200px;
+	display: inline-block;
+	float: left;
+	padding-left: 50px;
+
+}
+
+.contactLabel,
+.contactEmail {
+	width: 200px;
+	display: inline-block;
+	margin: 0;
+	padding: 5px 0 5px 50px;
+}
