@@ -15,3 +15,4 @@ var ContactForm = React.createClass({
   }
 });
 
+console.log(contact);
